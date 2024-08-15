@@ -7,7 +7,7 @@
 </div>  
 
 ## About Me! 🤩  
-I'm a 4th year student BSc(Hons) Information Technology Specialising in Information Technology  🎓 from Sri Lanka Institute of Information Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻.
+I'm a student BSc(Hons) Information Technology Specialising in Information Technology  🎓 from Sri Lanka Institute of Information Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻.
 
 ⚡ Know more about me ⚡
 

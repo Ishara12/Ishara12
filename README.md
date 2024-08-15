@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishara12/Ishara12/blob/main/Capture.PNG)
+![logo](https://github.com/Ishara12/Ishara12/blob/main/img.png)
 <div align="center">
 <img align="center" alt="GIF" height="150px" src="https://github.com/Ishara12/Ishara12/blob/main/images/dodgetocat_v2-removebg-preview.png" />
 
